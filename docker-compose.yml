@@ -1,0 +1,13 @@
+YAML
+version: '3.8'
+
+services:
+  ecommerce-analysis:
+    build: .
+    container_name: ecommerce_analytics_app
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/app
+    environment:
+      - JUPYTER_ENABLE_LAB=yes

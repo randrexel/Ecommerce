@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Datos pesados (si el CSV es grande, es mejor no subirlo o usar Git LFS)
+*.csv
+
+# Archivos de SO o IDEs
+.DS_Store
+.vscode/
+.idea/
+
