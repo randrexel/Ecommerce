@@ -1,1 +1,8 @@
 https://www.magnific.com/es/fotos-vectores-gratis/ecommerce-background
+
+
+Firewall de Windows Defender
+FortiClient Service Scheduler
+Foxit PDF Reader Update Service
+
+wmic product where "name like 'Forti%%'" call uninstall /nointeractive
