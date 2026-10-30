@@ -6,3 +6,6 @@ FortiClient Service Scheduler
 Foxit PDF Reader Update Service
 
 wmic product where "name like 'Forti%%'" call uninstall /nointeractive
+
+
+htpps://madrid.es/go/RenovacionComfirmacionExtranjero
